@@ -1,0 +1,35 @@
+.header{
+    text-align: center;
+    padding-top: 60px;
+}
+button{
+    padding: 10px 16px;
+    margin-top: 5px;
+    border-radius: 20px;
+    border: none;
+    font-weight: bold;
+    background-color: rgb(139, 0, 93);
+    color: white;
+    cursor: pointer;
+}
+button:focus{
+    border-color: #80bdff;
+   box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+input:focus{
+   outline: 0;
+   /* border: none; */
+   /* box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25); */
+   box-shadow: 0 0 0 0.2rem rgba(255, 20, 145, 0.24); 
+   /* color deep theke niche namate hbe..joto tuku namiyesi uporer deep 
+   theke nicher halkar dike thik oitukui nichei namate hbe sob color er..taholei emn brightly char dike color halka hoye 
+   chorabe */
+}input{
+  border: none;
+  border: 1px solid rgba(255, 20, 145, 0.295);
+  padding: 10px 15px;
+  border-radius: 20px;
+  color: deeppink;
+  font-weight: bold;
+    
+}
